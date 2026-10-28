@@ -1,1 +1,1 @@
-![Totally normal website](assets/demo.gif)
+![Totally normal website](assets/cat.gif)
