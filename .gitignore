@@ -1,0 +1,9 @@
+dist/
+outputs/
+node_modules/
+.site-tools/
+*.zip
+/caramel
+.env
+.env.*
+!.env.example
